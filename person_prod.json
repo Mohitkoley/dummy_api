@@ -1,0 +1,9 @@
+{
+  "person": {
+    "falvor": "person_prod.json",
+    "name": "client",
+    "lastName": "json",
+    "age": 45,
+    "isMale": true
+  }
+}
