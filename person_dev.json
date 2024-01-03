@@ -1,0 +1,9 @@
+{
+  "person": {
+    "falvor": "person_dev.json",
+    "name": "developer",
+    "lastName": "json",
+    "age": 23,
+    "isMale": false 
+  }
+}
