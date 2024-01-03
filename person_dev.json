@@ -4,6 +4,6 @@
     "name": "developer",
     "lastName": "json",
     "age": 23,
-    "isMale": false 
+    "isMale": true
   }
 }
